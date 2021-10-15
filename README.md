@@ -4,21 +4,21 @@ I'm a student of master degree at Computer Science and member of non-profit orga
 
 ## Technologies and tools that I use:
 
-<div>
-<p>
+<div float="left">
+<p display='inline'>
     <img width="40px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <em>HTML5</em>
+    HTML5
 </p>
-<p>
+<p display='inline'>
     <img width="40px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <em>CSS3</em>
+    CSS3
 </p>
-<p>
+<p display='inline'>
     <img width="40px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <em>JavaScript</em>
+    JavaScript
 </p>
 </div>
-<div>
+<div float="left">
 <p>
     <img width="40px" alt="TypeScipt" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
     <em>TypeScipt</em>
@@ -32,7 +32,7 @@ I'm a student of master degree at Computer Science and member of non-profit orga
     <em>Redux</em>
 </p>
 </div>
-<div>
+<div float="left">
 <p>
     <img width="40px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <em>Node.js</em>
@@ -46,8 +46,8 @@ I'm a student of master degree at Computer Science and member of non-profit orga
     <em>MongoDB</em>
 </p>
 </div>
-<div>
-<p>
+<div float="left">
+<p >
     <img width="40px" alt="visualstudiocode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <em>Visual Studio Code</em>
 </p>

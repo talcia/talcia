@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student of master degree at Computer Science and member of non-profit organization [CodersCrew](https://coderscrew.pl/)
+I'm a software engineer
 
 ## Technologies and tools that I use:
 
